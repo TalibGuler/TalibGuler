@@ -2,7 +2,7 @@
 
 ## About
 
-I am a curious <b>full stack developer</b> who lives in <b>Sakarya</b>, works for <a href="https://www.sakarya.bel.tr/tr/Daire-Baskanligi/bilgi-islem-dairesi-baskanligi/3" target="_blank">Sakarya Büyükşehir Belediyesi</a>, a <b>Computer Science</b> student.I love <b>.NET </b> and <b> Spring Boot, Javascript etc.</b>.
+I am a curious <b>full stack developer</b> who lives in <b>Sakarya</b>, a <b>Computer Science</b> student.I love <b>.NET </b> and <b> Spring Boot, Javascript etc.</b>.
 
 - 🔭 I’m currently working for my job.
 - 🌱 I’m currently learning Spring Boot and .Net
